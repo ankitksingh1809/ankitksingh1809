@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ankitksingh1809
+- 👋 Hi, I’m Ankit Kumar
 - 👀 I’m interested in Competitive Coding and Android App Development.
 - 📫 You can reach me at https://www.linkedin.com/in/ankitksingh1809/
 
